@@ -1,0 +1,7 @@
+langgraph
+langchain_groq
+langchain
+langchain_nomic
+langchain_community
+typing_extensions
+ipython
