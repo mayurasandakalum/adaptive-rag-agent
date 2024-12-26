@@ -1,9 +1,9 @@
 
-# Adaptive Retrieval-Augmented Generation (RAG) Agent with Groq API and Llama-3.3-70B-Versatile
+# Adaptive Retrieval-Augmented Generation (RAG) Agent with Groq API and Llama-3.3-70B
 
 ![Cover](./images//cover.webp)
 
-This project implements an Adaptive RAG agent utilizing the Groq API with the `llama-3.3-70b` model. The implementation is structured in a Jupyter notebook (`.ipynb`) to facilitate ease of use, interactive exploration, and reproducibility. The approach integrates:
+This project implements an Adaptive RAG agent utilizing the Groq API with the `llama-3.3-70b-versatile` model. The implementation is structured in a Jupyter notebook (`.ipynb`) to facilitate ease of use, interactive exploration, and reproducibility. The approach integrates:
 
 - **Routing**: Employing Adaptive RAG to direct questions to appropriate retrieval methods based on complexity.
 - **Fallback Mechanism**: Implementing Corrective RAG to resort to web search when retrieved documents lack relevance.
