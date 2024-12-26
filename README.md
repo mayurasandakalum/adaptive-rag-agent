@@ -1,7 +1,7 @@
 
 # Adaptive Retrieval-Augmented Generation (RAG) Agent with Groq API and Llama-3.3-70B-Versatile
 
-![Cover](./images//Llama-3.3-70B.webp)
+![Cover](./images//cover.webp)
 
 This project implements an Adaptive RAG agent utilizing the Groq API with the `llama-3.3-70b-versatile` model. The implementation is structured in a Jupyter notebook (`.ipynb`) to facilitate ease of use, interactive exploration, and reproducibility. The approach integrates:
 
